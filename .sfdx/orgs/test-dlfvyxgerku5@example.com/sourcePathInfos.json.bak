@@ -32,14 +32,14 @@
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1534441904958,
-            "changeTime": 1534441904958,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
+            "modifiedTime": 1534444099292,
+            "changeTime": 1534444099292,
+            "contentHash": "0d7312666f7b358c4f333f091f45816d28936bf2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -48,9 +48,9 @@
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1534440502413,
-            "changeTime": 1534440502413,
-            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "modifiedTime": 1534444892215,
+            "changeTime": 1534444892215,
+            "contentHash": "95d8ccc2e2e3506aadac5e27aae3b1b416da6cef",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -283,10 +283,10 @@
         {
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
-            "size": 155,
-            "modifiedTime": 1534440697352,
-            "changeTime": 1534440697352,
-            "contentHash": "4973781b6f5a7cdf3300fcbd0f4e944ff3c6df45",
+            "size": 203,
+            "modifiedTime": 1534444610392,
+            "changeTime": 1534444610392,
+            "contentHash": "7bdcc8d8705a0cf7559fde8b087a04444fc45e15",
             "isMetadataFile": false,
             "state": "u"
         }
@@ -385,92 +385,729 @@
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1534441904952,
             "changeTime": 1534441904952,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4561,
             "modifiedTime": 1534441904962,
             "changeTime": 1534441904962,
-            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687"
+            "contentHash": "ff1698466d56eeead175b6fd7f2ca59fefd2b687",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4565,
             "modifiedTime": 1534441904973,
             "changeTime": 1534441904973,
-            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98"
+            "contentHash": "40f12921baf8a61eac0cf77acb15b648f1827f98",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 17965,
             "modifiedTime": 1534441904995,
             "changeTime": 1534441904995,
-            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74"
+            "contentHash": "4b06b6411b9b4198c727114d9daeb869a4ff5c74",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 4901,
             "modifiedTime": 1534441905002,
             "changeTime": 1534441905002,
-            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08"
+            "contentHash": "a02fd4484fcda77a9dcf8af3036a4202b9b9ae08",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\tabs",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534441904951,
             "changeTime": 1534441904951,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1534441905001,
             "changeTime": 1534441905001,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534442551098,
+            "changeTime": 1534442581934,
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534442315605,
+            "changeTime": 1534442379811,
+            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1534442551098,
+            "changeTime": 1534442551098,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
+            "isDirectory": false,
+            "size": 540,
+            "modifiedTime": 1534445931840,
+            "changeTime": 1534445931840,
+            "contentHash": "556b3a3f66826ba62575a2a18ab2278a6db63992",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 243,
+            "modifiedTime": 1534442551083,
+            "changeTime": 1534442551083,
+            "contentHash": "ef58eb6c1b77fc51d93ac353bbade8d5567729b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
+            "isDirectory": false,
+            "size": 111,
+            "modifiedTime": 1534442608027,
+            "changeTime": 1534442608027,
+            "contentHash": "ff97680a451dccf775d504143f673481b13a3300",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1534442551100,
+            "changeTime": 1534442551100,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1534442551095,
+            "changeTime": 1534442551095,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 389,
+            "modifiedTime": 1534449616773,
+            "changeTime": 1534449616773,
+            "contentHash": "980af230932666509ab7c4bba5356453df64b249"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1534442551088,
+            "changeTime": 1534442551088,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1534442551093,
+            "changeTime": 1534442551093,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1534442315604,
+            "changeTime": 1534442315604,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
+            "isDirectory": false,
+            "size": 120,
+            "modifiedTime": 1534442431757,
+            "changeTime": 1534442431757,
+            "contentHash": "474f6d902cf12af89851140c645345a9f8da10a8",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 247,
+            "modifiedTime": 1534442315580,
+            "changeTime": 1534442315580,
+            "contentHash": "087db03e2f9069783a4fdcfb8cba3ebe0379cfd1",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.css",
+            "isDirectory": false,
+            "size": 168,
+            "modifiedTime": 1534442477026,
+            "changeTime": 1534442477026,
+            "contentHash": "28b0ed4fe984a051f5f2f586c4d4d1a2b303a706",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1534442315607,
+            "changeTime": 1534442315607,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1534442315602,
+            "changeTime": 1534442315602,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1534442315585,
+            "changeTime": 1534442315585,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1534442315590,
+            "changeTime": 1534442315590,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItemRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1534442315598,
+            "changeTime": 1534442315598,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1534444099292,
+            "changeTime": 1534444099292,
+            "contentHash": "daa89debd48598fd3138118af8ead370dbb2c259",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers-2x.png",
+            "isDirectory": false,
+            "size": 1259,
+            "modifiedTime": 1534444099604,
+            "changeTime": 1534444099604,
+            "contentHash": "152a162333e46d24f9d89f566312fc0c64011dee",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\layers.png",
+            "isDirectory": false,
+            "size": 696,
+            "modifiedTime": 1534444099620,
+            "changeTime": 1534444099620,
+            "contentHash": "c9e7528e491a39232ba24a2706c6c739d6fb0f06",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon-2x.png",
+            "isDirectory": false,
+            "size": 2464,
+            "modifiedTime": 1534444099620,
+            "changeTime": 1534444099620,
+            "contentHash": "cf3a536596b1f58e0ac805404183c8e6d6bdacb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-icon.png",
+            "isDirectory": false,
+            "size": 1466,
+            "modifiedTime": 1534444099620,
+            "changeTime": 1534444099620,
+            "contentHash": "60a90bcbb2b42b7ddb4556db94eb7c1084b0e5da",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images\\marker-shadow.png",
+            "isDirectory": false,
+            "size": 618,
+            "modifiedTime": 1534444099620,
+            "changeTime": 1534444099620,
+            "contentHash": "7b6a8df63930381e96604e705168d0527d6b82bc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js",
+            "isDirectory": false,
+            "size": 398030,
+            "modifiedTime": 1534444099667,
+            "changeTime": 1534444099667,
+            "contentHash": "023c3c45a2a182b0c879e03438e600a654bd9477",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.esm.js.map",
+            "isDirectory": false,
+            "size": 758870,
+            "modifiedTime": 1534444099667,
+            "changeTime": 1534444099667,
+            "contentHash": "7fdcd5184c27904f53dfe5cfe9f424e52a087bb9",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js",
+            "isDirectory": false,
+            "size": 399755,
+            "modifiedTime": 1534444099714,
+            "changeTime": 1534444099714,
+            "contentHash": "116887e3dfd6f8c2df569c04d1272bc4139aadb5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet-src.js.map",
+            "isDirectory": false,
+            "size": 758962,
+            "modifiedTime": 1534444099714,
+            "changeTime": 1534444099714,
+            "contentHash": "4b5d692e7bc29ff83528119b37073aaf8dc5392d",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.css",
+            "isDirectory": false,
+            "size": 14198,
+            "modifiedTime": 1534444099729,
+            "changeTime": 1534444099729,
+            "contentHash": "57d2f781ab8b7b41d1dd5f0a51cd1930050ca9dc",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js",
+            "isDirectory": false,
+            "size": 140360,
+            "modifiedTime": 1534444099760,
+            "changeTime": 1534444099760,
+            "contentHash": "25c08579254dd0e29fe22699afae8ffce57cca7e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\leaflet.js.map",
+            "isDirectory": false,
+            "size": 190881,
+            "modifiedTime": 1534444099776,
+            "changeTime": 1534444099776,
+            "contentHash": "91c1292d9bbd4f03e3b0587f56401d8b5eb68612",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534444099604,
+            "changeTime": 1534444099604,
+            "contentHash": "a3ad4d54448f22cbf71389bec794c76ffeb81f49",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet\\images",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534444099620,
+            "changeTime": 1534444099620,
+            "contentHash": "504aa9d4037501ec4d0edf632f7af41532b43659",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\staticresources\\leaflet",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534444099760,
+            "changeTime": 1534444099760,
+            "contentHash": "a4bdb0bbac118a8412f497c2e41a08d3b9edb86a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534444268170,
+            "changeTime": 1534444332730,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1534444268170,
+            "changeTime": 1534444268170,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "size": 328,
+            "modifiedTime": 1534445980308,
+            "changeTime": 1534445980308,
+            "contentHash": "82ac586aca52e0393ff288ec04803c68731c6ebb",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 242,
+            "modifiedTime": 1534444268155,
+            "changeTime": 1534444268155,
+            "contentHash": "1535fd0a14b1d55c7ad7cd83bfb2085ef1e50c52",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "size": 42,
+            "modifiedTime": 1534444575405,
+            "changeTime": 1534444575405,
+            "contentHash": "b5c7a9773c9f99067d3777ecad9e5dd88e3b717c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1534444268170,
+            "changeTime": 1534444268170,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1534444268170,
+            "changeTime": 1534444268170,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "size": 830,
+            "modifiedTime": 1534445537977,
+            "changeTime": 1534445537977,
+            "contentHash": "22f2320dc148f0e43c67b8f5d2dc75933cb07c22",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1534444268170,
+            "changeTime": 1534444268170,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1534444268170,
+            "changeTime": 1534444268170,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLoaded",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLoaded",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1534444892230,
+            "changeTime": 1534444940090,
+            "contentHash": "48b4176a8abd98dc1c53698a63005ae2bff62570",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt",
+            "isDirectory": false,
+            "size": 100,
+            "modifiedTime": 1534444962628,
+            "changeTime": 1534444962628,
+            "contentHash": "8f41527bf754bff336a0a867da6cdd35659054b4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\eduardoandrade\\Desktop\\salesforce\\dx\\geolocation\\force-app\\main\\default\\aura\\AccountLoaded\\AccountLoaded.evt-meta.xml",
+            "isDirectory": false,
+            "size": 241,
+            "modifiedTime": 1534444892230,
+            "changeTime": 1534444892230,
+            "contentHash": "af4841dbdfceeb48622d7757e76f5cd5140f492a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
